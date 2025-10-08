@@ -2,7 +2,7 @@
  </div>
 <br>
 
- <h2 align="center">Languages:</h2>
+ <h2>Languages:</h2>
 
 <p align="center">
 
