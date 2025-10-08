@@ -2,4 +2,10 @@
  </div>
 <br>
 <h2>Languages:</h2>
-<img src='https://skillicons.dev/icons?i=js,html,css,react,bootstrap' alt="Lannguages" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src='https://skillicons.dev/icons?i=js,html,css,react,bootstrap' alt="Lannguages" />
+  </a>
+</p>
+
+
